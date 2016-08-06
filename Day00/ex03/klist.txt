@@ -1,0 +1,5 @@
+credentials cache: API:19128
+        Principal: vjauze@42.FR
+
+          Issued                Expires               Principal
+          Aug  1 14:26:04 2016  Aug  2 00:26:04 2016  krbtgt/42.FR@42.FR
