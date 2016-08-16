@@ -12,7 +12,7 @@ Vous allez rater les exams si vous comprennez pas..</p>
 
 ## Status
 
-#Days :
+###Days :
 
 <ul>
 <li>Day00 : 09/12 (87 %)</li>
@@ -24,14 +24,14 @@ Vous allez rater les exams si vous comprennez pas..</p>
 <li>Day06 : 04/05 (70 %)</li>
 </ul>
 
-#Rush :
+###Rush :
 
 <ul>
 <li>Rush00 : colle : 5/5 (120 %)</li>
 <li>Rush01 : En cours ...</li>
 </ul>
 
-#Exam :
+###Exam :
 
 <ul>
 <li>Exam00 : 02/04 (40 %)</li>
