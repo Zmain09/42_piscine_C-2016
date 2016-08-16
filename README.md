@@ -7,10 +7,17 @@ Vous allez rater les exams si vous comprennez pas..</p>
 
 ## Mise à jour
 
-Les mise à jours seront publié au cour de mon travail.
+<p>Les mise à jours seront publié au cour de mon travail.</p>
 
 
 ## Status
+
+<ul>
+<li>Une puce</li>
+<li>Une autre puce</li>
+<li>Et encore une autre puce !</li>
+</ul>
+
 
 Days :
 
