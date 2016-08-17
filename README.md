@@ -20,15 +20,17 @@ Vous allez rater les exams si vous comprennez pas..</p>
 <li>Day02 : 04/08 (50 %)</li>
 <li>Day03 : 07/10 (50 %)</li>
 <li>Day04 : 08/10 (85 %)</li>
-<li>Day05 : En cours ...</li>
+<li>Day05 : 18/24 (64 %)</li>
 <li>Day06 : 04/05 (70 %)</li>
+<li>Day07 : En cour ...</li>
+<li>Day08 : En cour ...</li>
 </ul>
 
 ###Rush :
 
 <ul>
 <li>Rush00 : colle : 5/5 (120 %)</li>
-<li>Rush01 : En cours ...</li>
+<li>Rush01 : colle : 1/1   (0 %)</li>
 </ul>
 
 ###Exam :
