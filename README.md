@@ -38,5 +38,5 @@ Vous allez rater les exams si vous comprennez pas..</p>
 <ul>
 <li>Exam00 : 02/04 (40 %)</li>
 <li>Exam01 : 03/04 (6 %)</li>
-<li>Exam01 : 02/09 (32 %)</li>
+<li>Exam02 : 02/09 (32 %)</li>
 </ul>
