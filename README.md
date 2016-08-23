@@ -22,7 +22,7 @@ Vous allez rater les exams si vous comprennez pas..</p>
 <li>Day04 : 08/10 (85 %)</li>
 <li>Day05 : 18/24 (64 %)</li>
 <li>Day06 : 04/05 (70 %)</li>
-<li>Day07 : En cour ...</li>
+<li>Day07 : 06/08 (60 %)</li>
 <li>Day08 : En cour ...</li>
 </ul>
 
