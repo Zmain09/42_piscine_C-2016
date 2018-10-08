@@ -2,7 +2,7 @@
 
 <p>Ces exercices ont but d'exemple et d'aide ! Et non de copier / coller !<br/>
 
-Vous allez rater les exams si vous comprennez pas..</p>
+Vous allez rater les exams si vous ne les comprenez pas..</p>
 
 
 ## Mise à jour
